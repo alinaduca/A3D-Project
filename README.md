@@ -1,7 +1,7 @@
 # A3D
 
 Duca Alina  <br />
-Mitric Delia <br />
+Mitric Delia-Maria <br />
 Sîrbu Valentina <br />
 
 

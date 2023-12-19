@@ -13,8 +13,4 @@ For the environment, we modeled elements such as a bookshelf, a desk, a chair, a
 
 📌**Current tasks:**
     
-    * Duca Alina - modeling the girl
-
-    * Mitric Delia-Maria - modeling the cat
-
-    * Sîrbu Valentina - modeling the book
+   * Animations

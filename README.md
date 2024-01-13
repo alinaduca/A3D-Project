@@ -11,9 +11,8 @@
 
 ## Pictures with modeling
 
-![Img1](https://github.com/alinaduca/A3D/blob/main/Images/img2.png)
-![Img2](https://github.com/alinaduca/A3D/blob/main/Images/img5.png)
-![Img3](https://github.com/alinaduca/A3D/blob/main/Images/img3.png)
-![Img4](https://github.com/alinaduca/A3D/blob/main/Images/img4.png)
-![Img5](https://github.com/alinaduca/A3D/blob/main/Images/img1.png)
-
+![Img1](https://github.com/valentinasirbu0/A3D/blob/main/Images/img2.png)
+![Img2](https://github.com/valentinasirbu0/A3D/blob/main/Images/img5.png)
+![Img3](https://github.com/valentinasirbu0/A3D/blob/main/Images/img3.png)
+![Img4](https://github.com/valentinasirbu0/A3D/blob/main/Images/img4.png)
+![Img5](https://github.com/valentinasirbu0/A3D/blob/main/Images/img1.png)
